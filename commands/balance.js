@@ -11,7 +11,7 @@ module.exports = {
         var embed = new Discord.RichEmbed()
 
         .setTitle(`Seems like you've got ${balance}¥ left to spend in our café. 💕`)
-        .setDescription("and now leave me alone xd")
+        .setDescription("And now leave me alone.")
         .setColor([244, 0, 84])
       
 
