@@ -19,7 +19,7 @@ module.exports = {
         
             message.channel.send(`Uhh.. sorry ${message.author.username}  you need atleast **100¥** to play this game...`);
         
-            return; }
+            } message.channel.send(`Alright! This will be **100¥**.`
         
  const array = [['a', 100000],  
     ['b', 20000],
