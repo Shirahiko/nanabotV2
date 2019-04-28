@@ -23,8 +23,8 @@ module.exports = {
  const array = [['a', 100000],  
     ['b', 20000],
     ['c', 20000],
-    ['d', 10000],
-    ['e',  9000]];
+    ['d', 1000],
+    ['e',  20]];
     //['f',  1]];
 
 weightedlist.pushAll(array);
