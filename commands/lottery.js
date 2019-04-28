@@ -18,8 +18,7 @@ module.exports = {
         if(balance < 100){
         
             message.channel.send(`Uhh.. sorry ${message.author.username}  you need atleast **100¥** to play this game...`);
-        
-            } message.channel.send(`Alright! This will be **100¥**.`
+		return;}
         
  const array = [['a', 100000],  
     ['b', 20000],
