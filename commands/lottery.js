@@ -52,8 +52,8 @@ db.push(`${message.author.id}.items`, 100);
 
 } else if (result === 'e') {
 
-message.channel.send(`Not Bad! You are quiet luck! Here you go. 1000¥`);
-db.add(`${message.author.id}.money`, 1000); }
+message.channel.send(`Not Bad! You are quiet luck! Here you go. 600¥`);
+db.add(`${message.author.id}.money`, 600); }
 
 
 //} else if (result === 'f') {
