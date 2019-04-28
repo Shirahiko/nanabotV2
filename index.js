@@ -1,7 +1,7 @@
 const fs = require('fs');
 const db = require('quick.db')
 const Discord = require('discord.js');
-const { prefix, token } = require('./config.json');
+const { prefix } = require('./config.json');
 const cooldowns = new Discord.Collection();
 
 const client = new Discord.Client();
